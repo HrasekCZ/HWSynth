@@ -1,0 +1,18 @@
+# PlatformIO build artifacts
+.pio/
+
+# Python virtual environment (used by PlatformIO toolchain)
+.venv/
+
+# VSCode / IDE
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Wokwi temporary files
+diagram.json
+wokwi.toml
+wokwi_*.ino
