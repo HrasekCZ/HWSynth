@@ -1,0 +1,4 @@
+Adafruit ILI9341
+Adafruit GFX Library
+Adafruit BusIO
+ADS1X15
